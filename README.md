@@ -1,1 +1,1 @@
-A web based Online-Examination System
+A system that can manage an onsite quiz, developed with PHP with MySQL.
